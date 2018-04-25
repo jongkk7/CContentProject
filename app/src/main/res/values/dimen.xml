@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="crazyTextSize">70sp</dimen>
+    <dimen name="bigTextSize">28sp</dimen>
+    <dimen name="midTextSize">17sp</dimen>
+    <dimen name="smallTextSize">14sp</dimen>
+
+    <dimen name="iconSmallSize">20dp</dimen>
+    <dimen name="iconMidSize">30dp</dimen>
+    <dimen name="iconBiglSize">40dp</dimen>
+
+    <dimen name="catSize">180dp</dimen>
+    <dimen name="itemSize1">100dp</dimen>
+    <dimen name="itemSize2">120dp</dimen>
+    <dimen name="itemSize3">110dp</dimen>
+</resources>
